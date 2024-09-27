@@ -64,7 +64,7 @@ html,body{
     cursor: pointer;
 }
 
-.bottom p button{
+.bottom p button , p a{
     background-color: #E76F51;
     color: white;
     padding: 10px;
