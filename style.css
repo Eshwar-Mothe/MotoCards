@@ -104,7 +104,7 @@ html,body{
     }
 }
 
-@media (min-width: 320px) and (min-width:550px){
+@media (min-width: 375px){
     .card{
         width: 100%;
     }
