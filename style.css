@@ -97,10 +97,7 @@ html,body{
 
 }
 
-.header{
-
-}
-/* @media (min-width: 1024px) {
+@media (min-width: 1024px) {
     .card{
         width: 30%;
         
@@ -111,4 +108,4 @@ html,body{
     .card{
         width: 100%;
     }
-} */
+}
